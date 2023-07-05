@@ -18,8 +18,8 @@ title = "Samuel Rincé"
 [author]
    name = "Samuel Rincé"
    image = "img/me.jpg"
-   headline = "I'm only human"
-   bio = "A little bit about you"
+#   headline = ""
+   bio = "Lead Data Scientist at [Alygne](https://alygne.me) (helping people align their values with their actions). Open Source contributor at [Boavizta](https://boavizta.org) (data & tools for sustainable IT). Working on AI's environmental footprint."
    links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
