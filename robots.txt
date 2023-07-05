@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samuelrince.github.io/sitemap.xml
