@@ -33,6 +33,9 @@ fingerprintAlgorithm = "sha256"
   showRecent = true
   recentLimit = 5
 
+[author]
+  name = "Samuel Rincé"
+
 [article]
   showDate = true
   showDateUpdated = false
