@@ -15,11 +15,11 @@ title = "Samuel Rincé"
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
 
-[author]
+[params.author]
    name = "Samuel Rincé"
    image = "img/me.jpg"
 #   headline = ""
-   bio = "Lead Data Scientist at [Alygne](https://alygne.me) (helping people align their values with their actions). Open Source contributor at [Boavizta](https://boavizta.org) (data & tools for sustainable IT). Working on AI's environmental footprint."
+   bio = "Lead AI Architect at [Alygne](https://alygne.me) (helping people align their values with their actions). President and Co-Founder at [GenAI Impact](https://genai-impact.org) (helping organizations to evaluate GenAI environmental impacts). Open Source contributor at [Boavizta](https://boavizta.org) (data & tools for sustainable IT). Working on AI's environmental footprint."
    links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
