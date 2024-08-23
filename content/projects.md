@@ -12,3 +12,4 @@ A list of the projects I am currently involved in:
 * [BoaviztAPI](https://github.com/Boavizta/boaviztapi) - An API to assess the environmental impacts of server, cloud instances or end-user devices.
 * [EcoLogits](https://github.com/genai-impact/ecologits) - A Python/JS library to track the energy consumption and environmental footprint of GenAI.
 * [EcoLogits Calculator](https://huggingface.co/spaces/genai-impact/ecologits-calculator) - A Gradio web app that uses EcoLogits to estimate the environmental impacts of generic use cases of GenAI.
+* [Green AI Hack](https://docs.greenaihack.org/) - A hackathon to explore the trade-off between AI model performance and environmental impacts.
