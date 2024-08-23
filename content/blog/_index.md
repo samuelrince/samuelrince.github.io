@@ -1,7 +1,8 @@
 ---
-title: "Projects"
-description: "Learn about some of my projects."
+title: "Blog"
+description: "Read my blog posts."
 cascade:
 showReadingTime: false
 ---
-This section contains all my current projects.
+
+This section contains all blog posts.
