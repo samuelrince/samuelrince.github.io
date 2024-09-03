@@ -1,9 +1,10 @@
 ---
 title: "Projects"
-description: "Samuel Rincé is Lead AI Architect at Alygne (helping people align their values with their actions). President and Co-Founder at GenAI Impact (helping organizations to evaluate GenAI environmental impacts). Open Source Contributor at Boavizta (data & tools for sustainable IT). Samuel is also working on reducing AI's environmental footprint."
+description: "Discover innovative projects involving Samuel Rincé, focusing on green AI and sustainable IT. Explore resources, tools, APIs, and libraries like EcoLogits or BoaviztAPI, designed to assess and mitigate the environmental impact of AI and IT solutions."
 showDate: false
 showReadingTime: false
 showAuthor: false
+showTableOfContents: false
 ---
 
 A list of the projects I am currently involved in:

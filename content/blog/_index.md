@@ -1,8 +1,10 @@
 ---
 title: "Blog"
 description: "Read my blog posts."
+layout: list-publications
 cascade:
-showReadingTime: false
+    showSummary: true
+    showReadingTime: true
 ---
 
-This section contains all blog posts.
+A collection of my blog posts.

@@ -2,7 +2,7 @@
 title: The great challenges of generative AI (white paper)
 description: "This webinar presents the [Data For Good white paper on the risks and challenges of generative AI technologies](https://dataforgood.fr/iagenerative/)."
 date: 2023-09-27
-tags: ["Generative AI", "Environmental impacts", "AI", "Responsible AI"]
+tags: ["Talk", "Generative AI", "Environmental impacts", "AI", "Responsible AI"]
 ---
 
 This webinar presents the [Data For Good white paper on the risks and challenges of generative AI technologies](https://dataforgood.fr/iagenerative/). The white paper is available in french only.

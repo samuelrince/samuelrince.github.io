@@ -2,7 +2,7 @@
 title: Introduction to AI environmental impacts at SciencesPo
 description: "Introduction course on the environmental impacts of AI to master students at [SciencesPo Paris](https://www.sciencespo.fr/en/)."
 date: 2024-03-18
-tags: ["Environmental impacts", "AI"]
+tags: ["Course", "Environmental impacts", "AI"]
 ---
 
 Introduction course on the environmental impacts of AI to master students at [SciencesPo Paris](https://www.sciencespo.fr/en/).
