@@ -11,4 +11,10 @@ In this webinar, we will explore various aspects of AI's environmental impacts. 
 
 Samuel Rincé will be our speaker, sharing his expertise in the field of Green AI. Currently working as the Lead AI Architect at Alygne, he has spent recent years working on Natural Language Processing technologies. Also, as the president and co-founder of GenAI Impact and an active participant in Boavizta’s working groups, he will share the latest progress and innovations made by these non-profit organizations.
 
+## Replay
+
+{{< youtube 4mO7eI3NLmU>}}
+
+## Slides
+
 {{< gslides 1UmLQA0IvLdA2r4mMOsCY178mhh8LUV7yneNaap5DnYE >}}
