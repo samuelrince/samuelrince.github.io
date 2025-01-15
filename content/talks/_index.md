@@ -12,4 +12,4 @@ A list of my talks.
 
 ## Upcoming talks
 
-- [GreenIO](https://greenio.tech/conference/10/paris-2024-december-green-it) (4 Dec) - Is frugal AI wishful thinking?
+- [Journée Compar:IA](https://www.comparia.beta.gouv.fr/bnf) (7 Feb) - L'évaluation de l'impact environnementale des IA génératives
