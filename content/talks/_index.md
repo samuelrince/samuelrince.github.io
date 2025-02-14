@@ -12,4 +12,4 @@ A list of my talks.
 
 ## Upcoming talks
 
-- [Journée Compar:IA](https://www.comparia.beta.gouv.fr/bnf) (7 Feb) - L'évaluation de l'impact environnementale des IA génératives
+TBA
