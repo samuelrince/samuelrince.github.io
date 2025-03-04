@@ -1,6 +1,11 @@
 ---
 title: "Samuel Rincé"
-description: "Samuel Rincé is Lead AI Architect at Alygne (helping people align their values with their actions). President and Co-Founder at GenAI Impact (helping organizations to evaluate GenAI environmental impacts). Open Source Contributor at Boavizta (data & tools for sustainable IT). Samuel is also working on reducing AI's environmental footprint."
+description: "Samuel Rincé is AI Architect at EthiFinance. President and Co-Founder at GenAI Impact (evaluate GenAI environmental impacts for organizations). Open Source Contributor at Boavizta (data & tools for sustainable IT). Samuel is also working on reducing AI's environmental footprint."
 ---
 
-👋 I am Samuel Rincé, Lead AI Architect at [Alygne](https://alygne.me) (helping people align their values with their actions). President and Co-Founder at [GenAI Impact](https://genai-impact.org) (evaluate GenAI environmental impacts for organizations). Open Source Contributor at [Boavizta](https://boavizta.org) (data & tools for sustainable IT). <b>I am focused on reducing AI's environmental footprint.</b>
+<div style="text-align: left;">
+
+👋 I am Samuel Rincé, AI Architect at [EthiFinance](https://ethifinance.com), President and Co-Founder at [GenAI Impact](https://genai-impact.org), where we build [EcoLogits](https://ecologits.ai), a software solution to assess the environmental footprint of generative AI. <br>
+I am very passionate about applied and sustainable AI fields.
+
+</div>
