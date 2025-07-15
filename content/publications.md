@@ -12,7 +12,8 @@ A list of the publications I have participated in:
 
 ## Academic papers
 
-* [BoaviztAPI: a bottom-up model to assess the environmental impacts of cloud services](https://hal.science/hal-04621947/) - *HotCarbon 2024*
+* [EcoLogits: Evaluating the Environmental Impacts of Generative AI](https://joss.theoj.org/papers/10.21105/joss.07471) - *JOSS 2025*
+* [BoaviztAPI: A Bottom-Up Model to Assess the Environmental Impacts of Cloud Services](https://hal.science/hal-04621947/) - *HotCarbon 2024*
 
 
 ## Reports

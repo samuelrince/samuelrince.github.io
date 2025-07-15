@@ -10,6 +10,4 @@ cascade:
 
 A list of my talks.
 
-## Upcoming talks
-
-TBA
+If you are interested in me speaking at your event, you can contact me on [LinkedIn](https://www.linkedin.com/in/samuel-rince/).
