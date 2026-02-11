@@ -5,6 +5,7 @@ showDate: false
 showReadingTime: false
 showAuthor: false
 showTableOfContents: false
+showPagination: false
 ---
 
 A list of the publications I have participated in:
