@@ -1,5 +1,5 @@
 ---
-title: "Panel on the Environmental Impacts of Data Centers"
+title: "Panel on the environmental impacts of data centers"
 description: "ECOS webinar on its new whitepaper about the environmental impacts of data centres and the risks of derailing climate goals."
 date: 2025-09-16
 tags: ["Webinar", "Environmental impacts", "AI", "Data Centers", "Policy"]
