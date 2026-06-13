@@ -20,4 +20,4 @@ A list of the publications I have participated in:
 ## Reports
 
 * [General framework for frugal AI (AFNOR Spec 2314)](https://www.boutique.afnor.org/en-gb/standard/afnor-spec-2314//fa208976/421140) - *AFNOR & MTECT 2024* 
-* [Les grands défis de l'IA générative](https://dataforgood.fr/iagenerative/) - *Data For Good 2023*
+* [Les grands défis de l'IA générative](https://dataforgood.fr/projets/livre-blanc-de-l-ia-generative) - *Data For Good 2023*
