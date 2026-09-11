@@ -1,5 +1,5 @@
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 weight = 1
 
 title = "Samuel Rincé"
@@ -18,8 +18,8 @@ title = "Samuel Rincé"
 [params.author]
    name = "Samuel Rincé"
    image = "img/me.jpg"
-#   headline = ""
-   bio = "AI Engineer at [Briink](https://briink.com). Co-Founder and Maintainer at [EcoLogits](https://ecologits.ai). Freelance in Sustainable AI."
+  # headline = ""
+   bio = "AI Engineer at [Briink](https://briink.com). Founder and Maintainer at [EcoLogits](https://ecologits.ai). Freelance in Sustainable AI."
    links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
